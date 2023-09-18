@@ -1,0 +1,62 @@
+#calculadora {
+    color: blue;
+
+font-family: 'Croissant One', cursive;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Montserrat&display=swap');
+body {
+    font-family: 'Croissant One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(187, 187, 255);
+    color: blue;
+}
+#txtpeso{
+	width: 80%;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-bottom: 10px;
+	border-radius: 50px;
+}
+#txtaltura{
+	width: 80%;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-bottom: 10px;
+	border-radius: 50px;
+}
+#txtimc{
+	width: 80%;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-bottom: 10px;
+	border-radius: 50px;
+}
+#txtmensagem{
+	width: 80%;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-bottom: 10px;
+	border-radius: 50px;
+}
+form > * {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+input[type = "button"] {
+  background-color: rgb(157, 157, 255);
+  border-radius: 20px;
+  font-family: 'Croissant One', cursive;
+font-family: 'Montserrat', sans-serif;
+border: none;
+}
+.img {
+  text-align: center;
+}
